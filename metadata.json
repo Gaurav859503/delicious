@@ -1,0 +1,6 @@
+{
+  "name": "Gaurav Momos",
+  "description": "Gaurav Momos is a local food brand serving fresh, delicious, and affordable momos, prepared daily with quality ingredients and signature chutneys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
